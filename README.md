@@ -13,4 +13,5 @@ Second Way:-
 Implemented the Python Client Email Application Using SMTP(SIMPLE MAIL TRANSFER PROTOCOL) AND CSV(COMMA SEPARATED VALUE)
 
 Reading a mails from a file
+
 sending bulk emails at a time
