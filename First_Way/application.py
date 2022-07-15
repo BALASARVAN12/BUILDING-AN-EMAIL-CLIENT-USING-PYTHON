@@ -3,8 +3,8 @@ from email.message import EmailMessage #for draft or composing or writing the me
 import smtplib #SIMPLE MAIL TRANSFER PROTOCOL IT IS A SENDING PROTOCOL AND IT IS USED FOR CONNECTING TO A SERVER
 
 def credentials():
-    id="" #put your mail id
-    pwd="" #put your mail id password
+    id="" #Kepp your mail id
+    pwd="" #Keep your mail id password
     
     return(id,pwd)
 
