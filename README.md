@@ -1,4 +1,5 @@
 # BUILDING-AN-EMAIL-CLIENT-USING-PYTHON
+![image](https://miro.medium.com/max/3076/1*iAH_WP3kE4-FvVk3jSDtTg.png)
 I Have Done 2 Ways of Building a Email Client using Python
 
 First Way:-
