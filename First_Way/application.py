@@ -1,4 +1,8 @@
 #first import all important libraries
+"""To Use Email Via Python 
+1.Disable two factor Authentication
+2.Turn On less secure apps"""
+
 from email.message import EmailMessage #for draft or composing or writing the message
 import smtplib #SIMPLE MAIL TRANSFER PROTOCOL IT IS A SENDING PROTOCOL AND IT IS USED FOR CONNECTING TO A SERVER
 
